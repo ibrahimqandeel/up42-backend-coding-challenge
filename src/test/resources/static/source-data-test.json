@@ -1,0 +1,454 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "bbox": [
+          11.270337,
+          -8.786658,
+          13.921253,
+          -6.758337
+        ],
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.602236,
+                -8.786658
+              ],
+              [
+                13.921253,
+                -8.263106
+              ],
+              [
+                13.582317,
+                -6.758337
+              ],
+              [
+                11.270337,
+                -7.276515
+              ],
+              [
+                11.602236,
+                -8.786658
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "id": "cf5dbe37-ab95-4af1-97ad-2637aec4ddf0",
+          "timestamp": 1556904743783,
+          "centroid": {
+            "type": "Point",
+            "coordinates": [
+              12.593668261274997,
+              -7.771683311711711
+            ]
+          },
+          "visibility": {
+            "deleted": false
+          },
+          "illumination": {},
+          "production": {
+            "levelCode": "L1",
+            "ongoing": false
+          },
+          "archive": {
+            "offLine": false,
+            "size": 1689,
+            "onLine": false
+          },
+          "spatialCoverage": {
+            "verticality": {},
+            "geometry": {
+              "geographicBoundingPolygon": {
+                "coordinates": [
+                  [
+                    [
+                      11.602236,
+                      -8.786658
+                    ],
+                    [
+                      13.921253,
+                      -8.263106
+                    ],
+                    [
+                      13.582317,
+                      -6.758337
+                    ],
+                    [
+                      11.270337,
+                      -7.276515
+                    ],
+                    [
+                      11.602236,
+                      -8.786658
+                    ]
+                  ]
+                ],
+                "type": "Polygon"
+              },
+              "global": false,
+              "centerPoint": {
+                "lon": 12.593668261274997,
+                "lat": -7.771683311711711
+              }
+            }
+          },
+          "timeStamp": 1556904743783,
+          "uid": "cf5dbe37-ab95-4af1-97ad-2637aec4ddf0",
+          "enrichment": {
+            "naturallanguage": {
+              "search_date_string": "2019 May 03 17: 17:32 17:32:23",
+              "search_quality_string": "quality:?",
+              "search_cloud_string": "cloud:?",
+              "search_incidence_angle_string": "incidence:?"
+            }
+          },
+          "identification": {
+            "profile": "Image",
+            "externalId": "S1B_IW_GRDH_1SDV_20190503T173223_20190503T173248_016082_01E405_1832",
+            "collection": "Sentinel-1",
+            "type": "GRD",
+            "dataset": {}
+          },
+          "transmission": {},
+          "contentDescription": {},
+          "acquisition": {
+            "endViewingDate": 1556904768781,
+            "mission": "Sentinel-1",
+            "missionId": "B",
+            "missionCode": "S1B",
+            "beginViewingDate": 1556904743783,
+            "missionName": "Sentinel-1B",
+            "polarization": "VV VH",
+            "sensorMode": "IW",
+            "sensorId": "SAR-C SAR"
+          },
+          "orbit": {
+            "relativeNumber": 131,
+            "direction": "ASCENDING"
+          },
+          "state": {
+            "resources": {
+              "thumbnail": true,
+              "quicklook": true
+            },
+            "services": {
+              "wmts": false,
+              "download": "internal",
+              "wcs": false,
+              "wms": false
+            },
+            "insertionDate": 1556913575372
+          },
+          "attitude": {},
+          "quicklook": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAFSCAIAAAAL"
+        }
+      }
+    ]
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "bbox": [
+          10.537351,
+          -6.920142,
+          13.115894,
+          -4.910447
+        ],
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                12.78991,
+                -6.920142
+              ],
+              [
+                13.115894,
+                -5.40905
+              ],
+              [
+                10.868342,
+                -4.910447
+              ],
+              [
+                10.537351,
+                -6.416506
+              ],
+              [
+                12.78991,
+                -6.920142
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "id": "ca81d759-0b8c-4b3f-a00a-0908a3ddd655",
+          "timestamp": 1558155123786,
+          "centroid": {
+            "type": "Point",
+            "coordinates": [
+              11.828267875297609,
+              -5.914464897014258
+            ]
+          },
+          "visibility": {
+            "deleted": false
+          },
+          "illumination": {},
+          "production": {
+            "levelCode": "L1",
+            "ongoing": false
+          },
+          "archive": {
+            "offLine": false,
+            "size": 1638,
+            "onLine": false
+          },
+          "spatialCoverage": {
+            "verticality": {},
+            "geometry": {
+              "geographicBoundingPolygon": {
+                "coordinates": [
+                  [
+                    [
+                      12.78991,
+                      -6.920142
+                    ],
+                    [
+                      13.115894,
+                      -5.40905
+                    ],
+                    [
+                      10.868342,
+                      -4.910447
+                    ],
+                    [
+                      10.537351,
+                      -6.416506
+                    ],
+                    [
+                      12.78991,
+                      -6.920142
+                    ]
+                  ]
+                ],
+                "type": "Polygon"
+              },
+              "global": false,
+              "centerPoint": {
+                "lon": 11.828267875297609,
+                "lat": -5.914464897014258
+              }
+            }
+          },
+          "timeStamp": 1558155123786,
+          "uid": "ca81d759-0b8c-4b3f-a00a-0908a3ddd655",
+          "enrichment": {
+            "naturallanguage": {
+              "search_date_string": "2019 May 18 04: 04:52 04:52:03",
+              "search_quality_string": "quality:?",
+              "search_cloud_string": "cloud:?",
+              "search_incidence_angle_string": "incidence:?"
+            }
+          },
+          "identification": {
+            "profile": "Image",
+            "externalId": "S1A_IW_GRDH_1SDV_20190518T045203_20190518T045228_027277_031365_7C5D",
+            "collection": "Sentinel-1",
+            "type": "GRD",
+            "dataset": {}
+          },
+          "transmission": {},
+          "contentDescription": {},
+          "acquisition": {
+            "endViewingDate": 1558155148785,
+            "mission": "Sentinel-1",
+            "missionId": "A",
+            "missionCode": "S1A",
+            "beginViewingDate": 1558155123786,
+            "missionName": "Sentinel-1A",
+            "polarization": "VV VH",
+            "sensorMode": "IW",
+            "sensorId": "SAR-C SAR"
+          },
+          "orbit": {
+            "relativeNumber": 80,
+            "direction": "DESCENDING"
+          },
+          "state": {
+            "resources": {
+              "thumbnail": true,
+              "quicklook": true
+            },
+            "services": {
+              "wmts": false,
+              "download": "internal",
+              "wcs": false,
+              "wms": false
+            },
+            "insertionDate": 1558166928614
+          },
+          "attitude": {},
+          "quicklook": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAFaCAIAAAD"
+        }
+      }
+    ]
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "bbox": [
+          10.19899,
+          -8.430534,
+          12.78989,
+          -6.416396
+        ],
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                12.458946,
+                -8.430534
+              ],
+              [
+                12.78989,
+                -6.920232
+              ],
+              [
+                10.536449,
+                -6.416396
+              ],
+              [
+                10.19899,
+                -7.921534
+              ],
+              [
+                12.458946,
+                -8.430534
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "id": "b0d3bf6a-ff54-49e0-a4cb-e57dcb68d3b5",
+          "timestamp": 1558155148786,
+          "centroid": {
+            "type": "Point",
+            "coordinates": [
+              11.496418570792924,
+              -7.422678958862905
+            ]
+          },
+          "visibility": {
+            "deleted": false
+          },
+          "illumination": {},
+          "production": {
+            "levelCode": "L1",
+            "ongoing": false
+          },
+          "archive": {
+            "offLine": false,
+            "size": 1638,
+            "onLine": false
+          },
+          "spatialCoverage": {
+            "verticality": {},
+            "geometry": {
+              "geographicBoundingPolygon": {
+                "coordinates": [
+                  [
+                    [
+                      12.458946,
+                      -8.430534
+                    ],
+                    [
+                      12.78989,
+                      -6.920232
+                    ],
+                    [
+                      10.536449,
+                      -6.416396
+                    ],
+                    [
+                      10.19899,
+                      -7.921534
+                    ],
+                    [
+                      12.458946,
+                      -8.430534
+                    ]
+                  ]
+                ],
+                "type": "Polygon"
+              },
+              "global": false,
+              "centerPoint": {
+                "lon": 11.496418570792924,
+                "lat": -7.422678958862905
+              }
+            }
+          },
+          "timeStamp": 1558155148786,
+          "uid": "b0d3bf6a-ff54-49e0-a4cb-e57dcb68d3b5",
+          "enrichment": {
+            "naturallanguage": {
+              "search_date_string": "2019 May 18 04: 04:52 04:52:28",
+              "search_quality_string": "quality:?",
+              "search_cloud_string": "cloud:?",
+              "search_incidence_angle_string": "incidence:?"
+            }
+          },
+          "identification": {
+            "profile": "Image",
+            "externalId": "S1A_IW_GRDH_1SDV_20190518T045228_20190518T045253_027277_031365_2972",
+            "collection": "Sentinel-1",
+            "type": "GRD",
+            "dataset": {}
+          },
+          "transmission": {},
+          "contentDescription": {},
+          "acquisition": {
+            "endViewingDate": 1558155173785,
+            "mission": "Sentinel-1",
+            "missionId": "A",
+            "missionCode": "S1A",
+            "beginViewingDate": 1558155148786,
+            "missionName": "Sentinel-1A",
+            "polarization": "VV VH",
+            "sensorMode": "IW",
+            "sensorId": "SAR-C SAR"
+          },
+          "orbit": {
+            "relativeNumber": 80,
+            "direction": "DESCENDING"
+          },
+          "state": {
+            "resources": {
+              "thumbnail": false,
+              "quicklook": false
+            },
+            "services": {
+              "wmts": false,
+              "download": "internal",
+              "wcs": false,
+              "wms": false
+            },
+            "insertionDate": 1558167424917
+          },
+          "attitude": {}
+        }
+      }
+    ]
+  }
+]

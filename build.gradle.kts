@@ -39,3 +39,12 @@ tasks.withType<Test> {
 ktlint {
     version.set("0.43.1")
 }
+
+configure<SourceSetContainer> {
+    named("main") {
+        java.srcDir("src/main/kotlin")
+    }
+    named("test") {
+        java.srcDir("src/test/kotlin")
+    }
+}
